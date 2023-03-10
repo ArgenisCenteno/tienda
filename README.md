@@ -27,4 +27,4 @@ yarn dev
 Llamara:
 ```
 http://localhost:3000/api/seed
-```
+```# tienda
